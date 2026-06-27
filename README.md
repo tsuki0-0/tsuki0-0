@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jhuan-g-a773523b9">
-<img src="https://img.shields.io/badge/LinkedIn-Jhuan_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Jhuan_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
