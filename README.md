@@ -1,36 +1,67 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá! Eu sou Jhuan Silva
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá! Eu sou **Jhuan Gomes (Tsuki)**
 
 <div align="center">
 
-### 🎓 Estudante de Mecatrônica • Python • Inteligência Artificial Generativa
+# 👨‍💻 Desenvolvedor em Formação
 
-> *"Aprender continuamente é transformar curiosidade em conhecimento."*
+### 🐍 Python • 🤖 Inteligência Artificial Generativa • ⚙️ Mecatrônica
+
+*"Transformando aprendizado em projetos e conhecimento em soluções."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Mecatr%C3%B4nica;Python+Developer+em+Forma%C3%A7%C3%A3o;Estudando+IA+Generativa;Sempre+aprendendo+algo+novo!" />
+
+<p>
+
+<a href="https://github.com/tsuki0-0">
+<img src="https://img.shields.io/badge/GitHub-tsuki0--0-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jhuan-g-a773523b9">
+<img src="https://img.shields.io/badge/LinkedIn-Jhuan_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=tsuki0-0\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Sou estudante de **Mecatrônica** no **Instituto Federal de São Paulo (IFSP) - Campus Guarulhos**.
+🎓 Estudante de **Mecatrônica** no **Instituto Federal de São Paulo (IFSP) – Campus Guarulhos**.
 
-Atualmente estou me especializando em **Python** e **Inteligência Artificial Generativa** no **SENAI Hermenegildo Campos de Almeida**, onde participo das aulas aos sábados buscando aproveitar cada oportunidade para evoluir tecnicamente.
+📚 Atualmente estou aprendendo **Python** e **Inteligência Artificial Generativa** no **SENAI Hermenegildo Campos de Almeida**, participando das aulas aos sábados e aproveitando cada oportunidade para evoluir técnica e profissionalmente.
 
-Tenho interesse em desenvolvimento de software, automação industrial, inteligência artificial e tecnologias emergentes.
+Meu foco é construir uma base sólida em desenvolvimento de software, automação e inteligência artificial, criando projetos práticos e expandindo constantemente meus conhecimentos.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 💡 Áreas de Interesse
+
+* 🤖 Inteligência Artificial Generativa
+* 🐍 Python
+* 💻 Desenvolvimento de Software
+* ⚙️ Automação Industrial
+* 🔌 Arduino
+* 📊 Ciência de Dados
+* 🌐 Cloud Computing
+* 🔬 Tecnologias Emergentes
+
+---
+
+# 🛠️ Tecnologias
 
 <div align="center">
 
 ### Linguagem
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" height="60"/>
 
 ### Inteligência Artificial
 
@@ -44,91 +75,118 @@ Tenho interesse em desenvolvimento de software, automação industrial, intelig�
 
 ---
 
-## 📚 Formação
+# 🎓 Formação
 
-🎓 **Instituto Federal de São Paulo (IFSP)**
+### 🏫 Instituto Federal de São Paulo (IFSP)
 
-* Curso Técnico em Mecatrônica
+**Curso Técnico em Mecatrônica**
 
-🤖 **SENAI Hermenegildo Campos de Almeida**
+### 🏭 SENAI Hermenegildo Campos de Almeida
 
 * Python
 * Inteligência Artificial Generativa
 
 ---
 
-## 📜 Certificações
+# 📜 Certificações
 
 * 💻 Informática Básica
 * 🌐 Cisco CCNA v7
-* 🔌 Arduino
-* 🏭 Termomecânica
-* 🧠 Competência em Lógica de Programação
-* 📏 Competência Transversal em Metrologia
-* ⚙️ Competência Transversal – Noções Básicas de Mecânica
-* 📊 Excel Básico e Avançado
-* ⚛️ Por Dentro da Computação Quântica
-
----
-
-## 🎯 Atualmente estudando
-
 * 🐍 Python
 * 🤖 Inteligência Artificial Generativa
-* 🧠 Engenharia de Prompt
-* 🔗 APIs
-* 🌐 Git e GitHub
-* ⚙️ Automação
+* 🔌 Arduino
+* 🏭 Termomecânica
+* 📊 Excel Básico e Avançado
+* 📏 Competência Transversal em Metrologia
+* ⚙️ Competência Transversal – Noções Básicas de Mecânica
+* 🧠 Competência em Lógica de Programação
+* ⚛️ Por Dentro da Computação Quântica
+
+### 📂 Coleção de Certificados
+
+Todos os meus certificados estão organizados nesta pasta pública do Google Drive:
+
+**📁 https://drive.google.com/drive/folders/14fA3_OKUjSE0Q5-8uyZTkvBsGUpJZ2JV?usp=sharing**
 
 ---
 
-## 📈 Objetivos
+# 🌱 Atualmente estudando
 
-* Desenvolver aplicações utilizando Python.
-* Aplicar IA Generativa em projetos reais.
-* Aprender Machine Learning e Ciência de Dados.
-* Contribuir para projetos Open Source.
-* Construir um portfólio sólido no GitHub.
+* Python
+* Inteligência Artificial Generativa
+* Engenharia de Prompt
+* APIs REST
+* Git e GitHub
+* Automação
+* Machine Learning (em breve)
 
 ---
 
-## 📊 GitHub Analytics
+# 🎯 Objetivos
+
+* 🚀 Desenvolver aplicações em Python.
+* 🤖 Criar projetos utilizando IA Generativa.
+* 📂 Construir um portfólio profissional.
+* 🌍 Contribuir para projetos Open Source.
+* 📚 Aprender continuamente e compartilhar conhecimento.
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-```md
-# Adicione seu usuário abaixo
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tsuki0-0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki0-0&layout=compact&theme=github_dark&hide_border=true"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark
+</div>
 
-https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark
-```
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tsuki0-0&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+# 📈 Atividade
 
 <div align="center">
 
-```md
-https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=15
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsuki0-0&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 Contato
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/SEU_USUARIO)
+<img src="https://github-profile-trophy.vercel.app/?username=tsuki0-0&theme=algolia&no-frame=true&margin-w=10"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
+</div>
+
+---
+
+# 📌 Projetos em Destaque
+
+> Em constante desenvolvimento. Novos projetos em Python, Inteligência Artificial e Automação serão adicionados conforme minha evolução acadêmica e profissional.
+
+---
+
+# 🤝 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://github.com/tsuki0-0">
+<img src="https://img.shields.io/badge/GitHub-tsuki0--0-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jhuan-g-a773523b9">
+<img src="https://img.shields.io/badge/LinkedIn-Jhuan_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -136,10 +194,10 @@ https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-
 
 <div align="center">
 
-### Obrigado pela visita!
+### 💬 Frase que guia minha jornada
 
-*"A tecnologia move o mundo, mas o aprendizado move a tecnologia."*
+> **"A tecnologia evolui todos os dias. Meu compromisso é evoluir com ela."**
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue" />
+⭐ Obrigado por visitar meu perfil!
 
 </div>
