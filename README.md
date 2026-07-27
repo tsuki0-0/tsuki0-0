@@ -142,23 +142,13 @@ Google Drive - Certificados
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tsuki0-0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsuki0-0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki0-0&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki0-0&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tsuki0-0&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Atividade no GitHub
 
 <div align="center">
 
@@ -168,11 +158,21 @@ Google Drive - Certificados
 
 ---
 
+# 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsuki0-0&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
 # 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tsuki0-0&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tsuki0-0&theme=algolia&no-frame=true&margin-w=10&column=7"/>
 
 </div>
 
