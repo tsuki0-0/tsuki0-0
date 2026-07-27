@@ -1,17 +1,17 @@
 <h1 align="center">
-  👨‍💻 Olá! Eu sou Jhuan Silva
+  👨‍💻 Olá! Eu sou Jhuan
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   Desenvolvedor em Formação | Técnico em Mecatrônica
-</h3>
+</h2>
 
-<p align="center">
-  ⚙️ Em constante evolução através de tecnologia, projetos e aprendizado.
+<p align="left">
+  • ⚙️ Em constante evolução através de tecnologia, projetos e aprendizado.
 </p>
 
-<p align="center">
-  <i>📚 "Transformando aprendizado em projetos e conhecimento em soluções."</i>
+<p align="left">
+  <i>• 📚 "Transformando aprendizado em projetos e conhecimento em soluções."</i>
 </p>
 
 <p align="center">
