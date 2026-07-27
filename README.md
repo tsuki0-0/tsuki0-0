@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>"Transformando aprendizado em projetos e conhecimento em soluções."</i>
+  <i>📚 "Transformando aprendizado em projetos e conhecimento em soluções."</i>
 </p>
 
 <p align="center">
