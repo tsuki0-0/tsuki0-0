@@ -22,9 +22,10 @@
 
 <a href="https://github.com/tsuki0-0">
 <img src="https://img.shields.io/badge/GitHub-tsuki0--0-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jhuan-g-a773523b9">
+ </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhuan-g-a773523b9">
 <img src="https://img.shields.io/badge/LinkedIn-Jhuan_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
