@@ -113,13 +113,6 @@ Cursos relacionados à programação, inteligência artificial e tecnologia.
 - ⚙️ Competência Transversal – Noções Básicas de Mecânica
 - 🧠 Lógica de Programação
 - ⚛️ Por Dentro da Computação Quântica
-
-📂 **Meus certificados:**
-
-<a href="https://drive.google.com/drive/folders/14fA3_OKUjSE0Q5-8uyZTkvBsGUpJZ2JV?usp=sharing">
-Google Drive - Certificados
-</a>
-
 ---
 
 # 🌱 Atualmente estudando
