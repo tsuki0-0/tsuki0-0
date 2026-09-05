@@ -147,26 +147,6 @@ Cursos relacionados à programação, inteligência artificial e tecnologia.
 
 ---
 
-# 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsuki0-0&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tsuki0-0&theme=algolia&no-frame=true&margin-w=10&column=7"/>
-
-</div>
-
----
-
 # 📌 Projetos em Destaque
 
 - Confira meus repositórios para acompanhar meus estudos, experimentos e projetos desenvolvidos.
